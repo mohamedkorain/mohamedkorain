@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mohamedkorain
-- 👀 I’m interested in Data Science, AI. Techie!
+- 👀 I’m interested in Data Science and ML. Techie!
 - 🌱 I’m currently learning Python and ML.
 -  📫 How to reach me: Email: mohamed.korain94@gmail.com 
 LinkedIn: https://www.linkedin.com/in/mohamedkorain/
